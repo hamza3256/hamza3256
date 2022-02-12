@@ -1,4 +1,4 @@
-### Hi there 👋
+### hi
 
 <!--
 **hamza3256/hamza3256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
