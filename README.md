@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=hamza3256)
 
 ## Open Source Contributions
-- **[Go (Golang) Core](https://github.com/golang/go/commit/50126a8e44f76134349edf5ba3cc94efabc61c80)**: Optimised Garbage Collection latency by engineering a preemptible memory-clearing mechanism in the runtime and compiler ([#69327](https://github.com/golang/go/issues/69327)).
+- **[Go (Golang) Core](https://github.com/golang/go/commit/50126a8e44f76134349edf5ba3cc94efabc61c80)**: Optimised Garbage Collection latency by engineering a preemptible memory-clearing mechanism in the runtime and compiler ([issue #69327](https://github.com/golang/go/issues/69327)).
